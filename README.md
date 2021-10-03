@@ -12,7 +12,7 @@ CONNECTIONS:
 
 
 
-ARDUINO          BMP280
+ARDUINO ---- BMP280
 
 5v----------------Vin
 
@@ -27,7 +27,7 @@ A5----------------SCL
 
 
 
-ARDUINO          SD card
+ARDUINO ----- SD card
 
 3.3v--------------Vin
 
@@ -44,7 +44,7 @@ D13---------------SCK
 
 
 
-ARDUINO          Neo6-M
+ARDUINO ------ Neo6-M
 
 5v----------------Vin
 

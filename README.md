@@ -8,7 +8,7 @@ It uses Arduino Nano/Uno, BMP280 digital barometer, MEO6-M GPS module, SIM800L G
 CONNECTIONS:
 
 ARDUINO          BMP280
-5v----------------Vin
+5v----------------Vin\n
 Gnd---------------Gnd
 A4----------------SDA
 A5----------------SCL
